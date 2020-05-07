@@ -45,7 +45,7 @@ A plugin/DLL manager that sits between the Half-Life Engine and an HL Game mod, 
 
 ### Metamod plugins
 
-- [AMX Mod X](https://www.amxmodx.org/about.php)
+- [AMX Mod X](https://github.com/alliedmodders/amxmodx)
 
 ### Bots (metamod plugins)
 
