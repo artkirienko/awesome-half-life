@@ -13,6 +13,7 @@
 - [Plugin/DLL managers](#plugindll-managers)
   - [Metamod plugins](#metamod-plugins)
   - [Bots (metamod plugins)](#bots-metamod-plugins)
+  - [AMX Mod X plugins](#amx-mod-x-plugins)
 - [Web](#web)
 - [Server / Docker](#server--docker)
   - [Server lists](#server-lists)
@@ -51,6 +52,10 @@ A plugin/DLL manager that sits between the Half-Life Engine and an HL Game mod, 
 
 - [jk_botti](https://github.com/Bots-United/jk_botti)
 - [Yet Another Ping Of Death Bot](https://github.com/jeefo/yapb)
+
+### AMX Mod X plugins
+
+- [AG Mod X](https://github.com/rtxa/agmodx)
 
 
 ## Web
